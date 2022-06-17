@@ -1,0 +1,315 @@
+.popup .content
+{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    
+    width: 100%;
+    height: 220px;
+    z-index: 2;
+    
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+.popup .closebtn
+{
+    position:absolute;
+    right: 20px;
+    top: 20px;
+    width: 30px;
+    height: 30px;
+    background: #222;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+
+}
+
+
+.popup.active .content
+{
+    transition: all 500ms ease-in-out;
+    transform: translate(-50%, -50%) scale(1);
+} 
+
+
+
+
+
+.mainpaymentpage
+{
+/* border: 1px solid green; */
+height: auto;
+width: auto;
+background-position: 22rem;
+margin-top: 4%;
+
+
+}
+
+
+.paymentheader
+{   
+     margin-left: 37.5%; 
+   
+    height: 200px;
+    width: 25%;
+    /* border: 1px solid red; */
+    background-color: #cd333f;
+    
+    
+}
+
+.paymentbar
+{
+    margin-left: 95%;
+    color: rgb(224, 215, 215);        
+    cursor: pointer;
+}
+
+.paymentbar:hover
+{
+    margin-left: 95%;
+    color: white;        
+}
+.paymentIntern
+{
+    color: white;
+    margin-top: 5%;
+  margin-left: 40%;
+  font-weight: bold;
+  font-size: 20px;
+overflow-x: hidden;
+overflow-y: hidden;
+text-align: left;
+text-overflow: ellipsis;
+text-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px;
+white-space: nowrap;
+}
+.paymentpur
+{  margin-left: 10%;
+
+color: #eeb3b8;
+font-size: 15px;
+
+
+  text-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px;
+}
+.paymentrs
+{ 
+    color: white;
+    margin-top: 5%;
+ margin-left: 10%;
+   font-weight: bold;
+   font-size: 20px;
+overflow-x: hidden;
+overflow-y: hidden;
+text-align: left;
+text-overflow: ellipsis;
+text-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px;
+white-space: nowrap;
+}
+.paymentselect
+{    
+    width: 100%;
+    background-color: #b82e39;
+     margin-top: 13%;
+    height: 15%;
+    font-weight: bold;
+   
+    /* border: 1px solid white; */
+}
+
+
+
+.paymentlanguage
+{
+    height: 25px;
+    width: 25%;
+    background-color: #b82e39;
+     color: white;
+     border: none;
+     font-size: 14px;
+    padding-right: 14px;
+    position: relative;
+    text-align: left;
+    white-space: normal;
+    
+}
+.paymentlanguage:hover
+{
+    cursor: pointer;
+}
+.payment-options1
+{
+   
+    background-color: white;
+    color: black;
+    width: 25%;
+    height: 200px;
+}
+
+
+
+
+
+
+/* card details */
+
+
+
+
+.cardDetails
+{    
+   margin-left: 37.5%;
+  height: 400px;
+  width: 25%;
+  border: 1px solid rgb(235, 227, 227);
+
+}
+
+.cardDetails12
+{
+   display: flex;
+ justify-content: space-between;
+   height: 30px;
+   width: 100%;
+   box-sizing: border-box;
+   padding: 7px 15px;
+ 
+   
+}
+
+.cardDetails1234
+{
+   margin-bottom: 15%;
+   padding-left: 5%;
+   color: rgb(55, 55, 55);
+   font-family: "lato", ubuntu, helvetica, sans-serif;
+   font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+}
+
+.cardDetailsform
+{
+   margin-bottom: 5%;
+
+}
+
+.cardDetailsinput1
+{
+   padding-left: 5%;
+   display: flex;
+   margin-bottom: 5%;
+   gap: 10%;
+}
+
+.cardDetailsinputtake
+{
+   align-items: center;
+   outline: none;
+   border: white;
+}
+
+.cardDetailsknowMore
+{
+   padding-left: 10%;
+   font-size: 14px;
+   font-family: "lato", ubuntu, helvetica, sans-serif;
+   cursor: pointer;
+   color: rgb(63, 113, 215);
+   
+}
+.cardDetailssubmit
+{
+   
+   width: 100%;
+   height: 50px;
+   background-color: #d42635;
+   color: white;
+   font-weight: bold;
+   margin-top: 35%;
+   font-size: 16px;
+   font-weight: 400;
+   height: 55px;
+   left: 0px;
+   line-height: 56px;
+  }
+
+.cardDetailssubmit:hover
+{
+background-color: #df4e5a;
+}
+
+.cardDetailscheckbox
+{
+  font-size: large;
+}
+
+
+.cardDetailscheckboxDiv
+{
+   padding-left: 5%;
+   color: rgb(55, 55, 55);
+    cursor: pointer;
+    font-family: "lato", ubuntu, helvetica, sans-serif;
+    font-feature-settings: "liga" 0;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: left
+   
+}
+.paymentanchor123
+{
+color: rgb(179, 164, 164);
+margin-left: 95%;
+text-decoration: none;
+}
+
+.paymentanchor123:hover
+{
+color: white;
+}
+
+.cardDetailsback
+{
+text-decoration: none;
+}
+
+
+.cardDetailslabel1
+{
+position: absolute;
+top: 10px;
+left: 0;
+color: #999;
+transition: .5s;
+pointer-events: none;
+}
+
+.cardDetailsinputtake:focus~label
+.cardDetailsinputtake:valid~label
+{
+top: -12px;
+left: 0;
+color: #f7497d;
+font-size: 12px;
+font-weight: bold;
+
+}
+
+
+.cardDetailsinputtake:focus~label
+.cardDetailsinputtake:valid~label
+{
+border-bottom: 2px solid #f7497d;
+
+}

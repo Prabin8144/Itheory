@@ -1,0 +1,36 @@
+.carta1 {
+    border: 2px solid blue;
+    color: blue;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .carta1:hover {
+    background-color: rgb(220, 243, 253);
+    border: 1px solid rgb(33, 104, 185);
+  }
+  .cartanchor {
+    text-decoration: none;
+  }
+  
+  .cartpop3 {
+    display: none;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    /* border: 1px solid black; */
+    border-radius: 5px;
+
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    gap: 30px;
+    /* background-color: gray; */
+  }
+  .cartp{
+    margin-top: 70px;
+ 
+  }
