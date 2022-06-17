@@ -8,7 +8,7 @@ Intern Theory is an online internship portal created to bridge the gap between s
 - HTML , CSS,React,Redux
 - Browser LocalStorage for Frontend
 
-- [Blog Link][(https://medium.com/@chandutheruler3/technology-workforce-development-website-clone-ad865a7a8ebc)](https://medium.com/@k.prabina2000/intern-theory-4059ff36595c)
+- [Blog Link] https://medium.com/@k.prabina2000/intern-theory-4059ff36595c
 
 
 ## Features 
