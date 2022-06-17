@@ -44,9 +44,9 @@ Intern Theory is an online internship portal created to bridge the gap between s
 ![Screenshot (624)](https://user-images.githubusercontent.com/99638485/174230182-32bf4a7c-615e-42bd-8ee2-912a88a3d823.png)
 ![Screenshot (626)](https://user-images.githubusercontent.com/99638485/174230221-7d6f5b18-9fb4-4216-ab0e-f0d8ca7528e4.png)
 
-   - Video Link: https://drive.google.com/file/d/1yyuSdCYOey9mYWW8Klyfjd0RKTP4SRVS/view?usp=sharing
-   - vercel Link :https://sensational-frangipane-c21793.netlify.app/
-   - Medium Link:https://medium.com/@karinakhairnar/uboric-com-clone-4543c72bbfe9
+   - Video Link: https://drive.google.com/file/d/1BTxSBarFvQuleci_5aUvl8iLDEI-D3l4/view?usp=sharing
+   - vercel Link :https://ithory-prabin8144.vercel.app/
+   - Medium Link:https://medium.com/@k.prabina2000/intern-theory-4059ff36595c
    
    ## Authors
 
