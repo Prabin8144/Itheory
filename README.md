@@ -51,7 +51,7 @@ Intern Theory is an online internship portal created to bridge the gap between s
    ## Authors
 
   
-  1. [ K Prabina Chaudhary](https://github.com/Prabin8144) 
+  1. [ K Prabina Choudhury](https://github.com/Prabin8144) 
   
   
   It is My Construct Week Projet Given By Masai , I am Happy to Do It ,And Learn Some New Idea......
